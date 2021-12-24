@@ -1,1 +1,1 @@
-# YemekSepetiPythonBootcampHWs
+# YemekSepeti Python Bootcamp Homeworks
